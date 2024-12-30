@@ -23,6 +23,8 @@ A web-based application that provides personalized travel recommendations based 
 - **React**: For building a dynamic and responsive user interface.  
 - **Fetch API**: To send POST and GET requests to the Flask backend.  
 
+![image](https://github.com/user-attachments/assets/bac123c1-9a9c-4f26-b537-98f6d9fcc915)
+
 ---
 
 ## Dataset  
