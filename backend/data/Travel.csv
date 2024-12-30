@@ -1,0 +1,251 @@
+﻿user_id,age,user_preferences,destination_id,name,region,budget,attractions,best_season,popularity
+1,28,cultural charm,1,Kandy,Central Province,10000,temples,January to February,4.8
+2,42,beach leisure,2,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+3,31,wildlife,3,Yala,Uva Province,8000,safari parks,July to September,4.7
+4,25,adventure,4,Ella,Uva Province,5000,hiking trails,March to May,4.9
+5,45,history,5,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+6,29,nature,6,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+7,33,relaxation,7,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+8,38,photography,8,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+9,27,surfing,9,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+10,35,entertainment,10,Colombo,Western Province,4000,city life,year-round,4.6
+11,28,cultural charm,11,Kandy,Central Province,10000,temples,January to February,4.8
+12,42,beach leisure,12,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+13,31,wildlife,13,Yala,Uva Province,8000,safari parks,July to September,4.7
+14,25,adventure,14,Ella,Uva Province,5000,hiking trails,March to May,4.9
+15,45,history,15,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+16,29,nature,16,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+17,33,relaxation,17,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+18,38,photography,18,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+19,27,surfing,19,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+20,35,entertainment,20,Colombo,Western Province,4000,city life,year-round,4.6
+21,28,cultural charm,21,Kandy,Central Province,10000,temples,January to February,4.8
+22,42,beach leisure,22,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+23,31,wildlife,23,Yala,Uva Province,8000,safari parks,July to September,4.7
+24,25,adventure,24,Ella,Uva Province,5000,hiking trails,March to May,4.9
+25,45,history,25,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+26,29,nature,26,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+27,33,relaxation,27,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+28,38,photography,28,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+29,27,surfing,29,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+30,35,entertainment,30,Colombo,Western Province,4000,city life,year-round,4.6
+31,28,cultural charm,31,Kandy,Central Province,10000,temples,January to February,4.8
+32,42,beach leisure,32,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+33,31,wildlife,33,Yala,Uva Province,8000,safari parks,July to September,4.7
+34,25,adventure,34,Ella,Uva Province,5000,hiking trails,March to May,4.9
+35,45,history,35,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+36,29,nature,36,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+37,33,relaxation,37,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+38,38,photography,38,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+39,27,surfing,39,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+40,35,entertainment,40,Colombo,Western Province,4000,city life,year-round,4.6
+41,28,cultural charm,41,Kandy,Central Province,10000,temples,January to February,4.8
+42,42,beach leisure,42,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+43,31,wildlife,43,Yala,Uva Province,8000,safari parks,July to September,4.7
+44,25,adventure,44,Ella,Uva Province,5000,hiking trails,March to May,4.9
+45,45,history,45,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+46,29,nature,46,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+47,33,relaxation,47,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+48,38,photography,48,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+49,27,surfing,49,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+50,35,entertainment,50,Colombo,Western Province,4000,city life,year-round,4.6
+51,28,cultural charm,51,Kandy,Central Province,10000,temples,January to February,4.8
+52,42,beach leisure,52,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+53,31,wildlife,53,Yala,Uva Province,8000,safari parks,July to September,4.7
+54,25,adventure,54,Ella,Uva Province,5000,hiking trails,March to May,4.9
+55,45,history,55,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+56,29,nature,56,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+57,33,relaxation,57,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+58,38,photography,58,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+59,27,surfing,59,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+60,35,entertainment,60,Colombo,Western Province,4000,city life,year-round,4.6
+61,28,cultural charm,61,Kandy,Central Province,10000,temples,January to February,4.8
+62,42,beach leisure,62,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+63,31,wildlife,63,Yala,Uva Province,8000,safari parks,July to September,4.7
+64,25,adventure,64,Ella,Uva Province,5000,hiking trails,March to May,4.9
+65,45,history,65,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+66,29,nature,66,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+67,33,relaxation,67,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+68,38,photography,68,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+69,27,surfing,69,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+70,35,entertainment,70,Colombo,Western Province,4000,city life,year-round,4.6
+71,28,cultural charm,71,Kandy,Central Province,10000,temples,January to February,4.8
+72,42,beach leisure,72,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+73,31,wildlife,73,Yala,Uva Province,8000,safari parks,July to September,4.7
+74,25,adventure,74,Ella,Uva Province,5000,hiking trails,March to May,4.9
+75,45,history,75,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+76,29,nature,76,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+77,33,relaxation,77,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+78,38,photography,78,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+79,27,surfing,79,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+80,35,entertainment,80,Colombo,Western Province,4000,city life,year-round,4.6
+81,28,cultural charm,81,Kandy,Central Province,10000,temples,January to February,4.8
+82,42,beach leisure,82,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+83,31,wildlife,83,Yala,Uva Province,8000,safari parks,July to September,4.7
+84,25,adventure,84,Ella,Uva Province,5000,hiking trails,March to May,4.9
+85,45,history,85,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+86,29,nature,86,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+87,33,relaxation,87,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+88,38,photography,88,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+89,27,surfing,89,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+90,35,entertainment,90,Colombo,Western Province,4000,city life,year-round,4.6
+91,28,cultural charm,91,Kandy,Central Province,10000,temples,January to February,4.8
+92,42,beach leisure,92,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+93,31,wildlife,93,Yala,Uva Province,8000,safari parks,July to September,4.7
+94,25,adventure,94,Ella,Uva Province,5000,hiking trails,March to May,4.9
+95,45,history,95,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+96,29,nature,96,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+97,33,relaxation,97,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+98,38,photography,98,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+99,27,surfing,99,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+100,35,entertainment,100,Colombo,Western Province,4000,city life,year-round,4.6
+101,28,cultural charm,101,Kandy,Central Province,10000,temples,January to February,4.8
+102,42,beach leisure,102,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+103,31,wildlife,103,Yala,Uva Province,8000,safari parks,July to September,4.7
+104,25,adventure,104,Ella,Uva Province,5000,hiking trails,March to May,4.9
+105,45,history,105,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+106,29,nature,106,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+107,33,relaxation,107,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+108,38,photography,108,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+109,27,surfing,109,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+110,35,entertainment,110,Colombo,Western Province,4000,city life,year-round,4.6
+111,28,cultural charm,111,Kandy,Central Province,10000,temples,January to February,4.8
+112,42,beach leisure,112,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+113,31,wildlife,113,Yala,Uva Province,8000,safari parks,July to September,4.7
+114,25,adventure,114,Ella,Uva Province,5000,hiking trails,March to May,4.9
+115,45,history,115,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+116,29,nature,116,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+117,33,relaxation,117,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+118,38,photography,118,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+119,27,surfing,119,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+120,35,entertainment,120,Colombo,Western Province,4000,city life,year-round,4.6
+121,28,cultural charm,121,Kandy,Central Province,10000,temples,January to February,4.8
+122,42,beach leisure,122,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+123,31,wildlife,123,Yala,Uva Province,8000,safari parks,July to September,4.7
+124,25,adventure,124,Ella,Uva Province,5000,hiking trails,March to May,4.9
+125,45,history,125,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+126,29,nature,126,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+127,33,relaxation,127,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+128,38,photography,128,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+129,27,surfing,129,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+130,35,entertainment,130,Colombo,Western Province,4000,city life,year-round,4.6
+131,28,cultural charm,131,Kandy,Central Province,10000,temples,January to February,4.8
+132,42,beach leisure,132,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+133,31,wildlife,133,Yala,Uva Province,8000,safari parks,July to September,4.7
+134,25,adventure,134,Ella,Uva Province,5000,hiking trails,March to May,4.9
+135,45,history,135,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+136,29,nature,136,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+137,33,relaxation,137,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+138,38,photography,138,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+139,27,surfing,139,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+140,35,entertainment,140,Colombo,Western Province,4000,city life,year-round,4.6
+141,28,cultural charm,141,Kandy,Central Province,10000,temples,January to February,4.8
+142,42,beach leisure,142,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+143,31,wildlife,143,Yala,Uva Province,8000,safari parks,July to September,4.7
+144,25,adventure,144,Ella,Uva Province,5000,hiking trails,March to May,4.9
+145,45,history,145,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+146,29,nature,146,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+147,33,relaxation,147,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+148,38,photography,148,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+149,27,surfing,149,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+150,35,entertainment,150,Colombo,Western Province,4000,city life,year-round,4.6
+151,28,cultural charm,151,Kandy,Central Province,10000,temples,January to February,4.8
+152,42,beach leisure,152,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+153,31,wildlife,153,Yala,Uva Province,8000,safari parks,July to September,4.7
+154,25,adventure,154,Ella,Uva Province,5000,hiking trails,March to May,4.9
+155,45,history,155,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+156,29,nature,156,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+157,33,relaxation,157,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+158,38,photography,158,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+159,27,surfing,159,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+160,35,entertainment,160,Colombo,Western Province,4000,city life,year-round,4.6
+161,28,cultural charm,161,Kandy,Central Province,10000,temples,January to February,4.8
+162,42,beach leisure,162,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+163,31,wildlife,163,Yala,Uva Province,8000,safari parks,July to September,4.7
+164,25,adventure,164,Ella,Uva Province,5000,hiking trails,March to May,4.9
+165,45,history,165,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+166,29,nature,166,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+167,33,relaxation,167,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+168,38,photography,168,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+169,27,surfing,169,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+170,35,entertainment,170,Colombo,Western Province,4000,city life,year-round,4.6
+171,28,cultural charm,171,Kandy,Central Province,10000,temples,January to February,4.8
+172,42,beach leisure,172,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+173,31,wildlife,173,Yala,Uva Province,8000,safari parks,July to September,4.7
+174,25,adventure,174,Ella,Uva Province,5000,hiking trails,March to May,4.9
+175,45,history,175,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+176,29,nature,176,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+177,33,relaxation,177,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+178,38,photography,178,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+179,27,surfing,179,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+180,35,entertainment,180,Colombo,Western Province,4000,city life,year-round,4.6
+181,28,cultural charm,181,Kandy,Central Province,10000,temples,January to February,4.8
+182,42,beach leisure,182,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+183,31,wildlife,183,Yala,Uva Province,8000,safari parks,July to September,4.7
+184,25,adventure,184,Ella,Uva Province,5000,hiking trails,March to May,4.9
+185,45,history,185,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+186,29,nature,186,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+187,33,relaxation,187,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+188,38,photography,188,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+189,27,surfing,189,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+190,35,entertainment,190,Colombo,Western Province,4000,city life,year-round,4.6
+191,28,cultural charm,191,Kandy,Central Province,10000,temples,January to February,4.8
+192,42,beach leisure,192,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+193,31,wildlife,193,Yala,Uva Province,8000,safari parks,July to September,4.7
+194,25,adventure,194,Ella,Uva Province,5000,hiking trails,March to May,4.9
+195,45,history,195,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+196,29,nature,196,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+197,33,relaxation,197,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+198,38,photography,198,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+199,27,surfing,199,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+200,35,entertainment,200,Colombo,Western Province,4000,city life,year-round,4.6
+201,28,cultural charm,201,Kandy,Central Province,10000,temples,January to February,4.8
+202,42,beach leisure,202,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+203,31,wildlife,203,Yala,Uva Province,8000,safari parks,July to September,4.7
+204,25,adventure,204,Ella,Uva Province,5000,hiking trails,March to May,4.9
+205,45,history,205,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+206,29,nature,206,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+207,33,relaxation,207,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+208,38,photography,208,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+209,27,surfing,209,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+210,35,entertainment,210,Colombo,Western Province,4000,city life,year-round,4.6
+211,28,cultural charm,211,Kandy,Central Province,10000,temples,January to February,4.8
+212,42,beach leisure,212,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+213,31,wildlife,213,Yala,Uva Province,8000,safari parks,July to September,4.7
+214,25,adventure,214,Ella,Uva Province,5000,hiking trails,March to May,4.9
+215,45,history,215,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+216,29,nature,216,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+217,33,relaxation,217,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+218,38,photography,218,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+219,27,surfing,219,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+220,35,entertainment,220,Colombo,Western Province,4000,city life,year-round,4.6
+221,28,cultural charm,221,Kandy,Central Province,10000,temples,January to February,4.8
+222,42,beach leisure,222,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+223,31,wildlife,223,Yala,Uva Province,8000,safari parks,July to September,4.7
+224,25,adventure,224,Ella,Uva Province,5000,hiking trails,March to May,4.9
+225,45,history,225,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+226,29,nature,226,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+227,33,relaxation,227,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+228,38,photography,228,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+229,27,surfing,229,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+230,35,entertainment,230,Colombo,Western Province,4000,city life,year-round,4.6
+231,28,cultural charm,231,Kandy,Central Province,10000,temples,January to February,4.8
+232,42,beach leisure,232,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+233,31,wildlife,233,Yala,Uva Province,8000,safari parks,July to September,4.7
+234,25,adventure,234,Ella,Uva Province,5000,hiking trails,March to May,4.9
+235,45,history,235,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+236,29,nature,236,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+237,33,relaxation,237,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+238,38,photography,238,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+239,27,surfing,239,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+240,35,entertainment,240,Colombo,Western Province,4000,city life,year-round,4.6
+241,28,cultural charm,241,Kandy,Central Province,10000,temples,January to February,4.8
+242,42,beach leisure,242,Mirissa,Southern Province,6000,whale watching,December to April,4.5
+243,31,wildlife,243,Yala,Uva Province,8000,safari parks,July to September,4.7
+244,25,adventure,244,Ella,Uva Province,5000,hiking trails,March to May,4.9
+245,45,history,245,Anuradhapura,North Central,7000,ancient ruins,June to September,4.4
+246,29,nature,246,Nuwara Eliya,Central Province,9000,tea plantations,March to May,4.6
+247,33,relaxation,247,Bentota,Southern Province,12000,beach resorts,December to April,4.3
+248,38,photography,248,Sigiriya,Central Province,6500,rock fortress,July to September,4.8
+249,27,surfing,249,Arugam Bay,Eastern Province,5500,surf spots,May to September,4.7
+250,35,entertainment,250,Colombo,Western Province,4000,city life,year-round,4.6
